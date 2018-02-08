@@ -28,5 +28,5 @@
   - You could set the quantity of your purchased items by clicking the select input inside the card items then choose how much items you want to purchase and delete the items by clicking the 'Delete Icon' on upper right corner of the card
   - You could Checkout when you're ready and you will be shown a dialog with the summary of the transaction inlcude the total prices
 
-<b>Feedbacks will be appreactied</b>
+<b>Feedbacks will be appreciated</b>
 
