@@ -1,0 +1,11 @@
+{
+	"id": 3,
+	"title": "Tie Front Shirting Trousers",
+	"price": 320000,
+	"inventory": 5,
+	"img": "https://images.unsplash.com/photo-1483495068880-bebf922d5a27?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=ace5bd6dc78499369dcdd4a147bdcd47",
+	"content": {
+		"details": ["Stretch woven fabric", "Bardot neckline", "Midi cut ", "Close-cut bodycon fit", "Machine wash"],
+		"brand": "Score a wardrobe win no matter the dress code with our Collection own-label collection. From polished prom to the after party, our London-based design team scour the globe to nail your new-season fashion goals with need-right-now dresses, outerwear, shoes and denim in the coolest shapes and fits."
+	}
+}

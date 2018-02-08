@@ -1,0 +1,11 @@
+{
+	"id": 2,
+	"title": "Mini Skirt in Cut About Stripe",
+	"price": 230500,
+	"inventory": 10,
+	"img": "https://images.unsplash.com/photo-1479936343636-73cdc5aae0c3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=caf982797b3e3b7eaeb9a1f00915c8d4",
+	"content": {
+		"details": ["Cotton fabric", "Adjustable straps ", "Stretch off-the-shoulder design ", "Short sleeves"],
+		"brand": "Score a wardrobe win no matter the dress code with our Collection own-label collection. From polished prom to the after party, our London-based design team scour the globe to nail your new-season fashion goals with need-right-now dresses, outerwear, shoes and denim in the coolest shapes and fits."
+	}
+}

@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"title": "PrettyLittleThing Gingham Frill Bardots Dress",
+		"price": 420000,
+		"inventory": 2,
+		"img": "https://goo.gl/3PD40E"
+	},
+	{
+		"id": 2,
+		"title": "Mini Skirt in Cut About Stripe",
+		"price": 230500,
+		"inventory": 10,
+		"img": "https://images.unsplash.com/photo-1479936343636-73cdc5aae0c3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=caf982797b3e3b7eaeb9a1f00915c8d4"
+	},
+	{
+		"id": 3,
+		"title": "Tie Front Shirting Trousers",
+		"price": 320000,
+		"inventory": 5,
+		"img": "https://images.unsplash.com/photo-1483495068880-bebf922d5a27?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=ace5bd6dc78499369dcdd4a147bdcd47"
+	},
+	{
+		"id": 4,
+		"title": "Deconstructed Midi Skirt in Gingham",
+		"price": 450000,
+		"inventory": 100,
+		"img": "https://images.unsplash.com/photo-1477619725672-5763118d085e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=a8587766d63073d8addc8de191fddcc3"
+	}
+]

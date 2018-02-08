@@ -1,0 +1,11 @@
+{
+	"id": 4,
+	"title": "Deconstructed Midi Skirt in Gingham",
+	"price": 450000,
+	"inventory": 100,
+	"img": "https://images.unsplash.com/photo-1477619725672-5763118d085e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=a8587766d63073d8addc8de191fddcc3",
+	"content": {
+		"details": ["Durable polyester fabric", "Twin handles", "Ruched mesh", "Off-the-shoulder design"],
+		"brand": "Score a wardrobe win no matter the dress code with our Collection own-label collection. From polished prom to the after party, our London-based design team scour the globe to nail your new-season fashion goals with need-right-now dresses, outerwear, shoes and denim in the coolest shapes and fits."
+	}
+}
